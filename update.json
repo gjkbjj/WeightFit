@@ -1,6 +1,6 @@
 {
-  "versionCode":6,
-  "versionName":"4.0",
+  "versionCode":7,
+  "versionName":"1.4.1",
   "downloadLink":"https://wwbgy.lanzoub.com/b011lx78sb",
-  "updated_detailed":"测试更新"
+  "updated_detailed":"1.修复首页体重管理卡片数据不更新问题。\n2.修复保存完体重、体脂数据不写入健康的问题。"
 }
